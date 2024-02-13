@@ -22,10 +22,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -119,6 +115,23 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Stripe](https://stripe.com/en-th)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Deploy
+
+<div align="center">
+  <h3 align="center">View Demo</h3>
+
+  <p align="center">
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Website</a>
+    ·
+  </p>
+</div>
+
+
+
 
 
 
