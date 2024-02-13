@@ -41,9 +41,22 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Shadcn/Ui][shadcn.com]][Shadcn-url]
+* NextJS
+* React
+* Shadcn/Ui
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
 
