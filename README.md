@@ -104,7 +104,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Your Name - [@pheeraphat prisan]([https://twitter.com/your_username](https://www.linkedin.com/in/pheeraphat-prisan-195a09229/)) - pheerphat.pri@gmail.com
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce)]([https://github.com/your_username/repo_name](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce))
+Project Link: [https://github.com/newpheeraphat](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Vercel](https://vercel.com/)
 * [Sanity](https://www.sanity.io/)
 * [Shadcn](https://ui.shadcn.com/)
-* [Stripe]([https://react-icons.github.io/react-icons/search](https://stripe.com/en-th))
+* [Stripe](https://stripe.com/en-th)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
