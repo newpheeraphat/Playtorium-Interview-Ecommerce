@@ -133,7 +133,7 @@ Use this space to list resources you find helpful and would like to give credit 
   <h3 align="center">View Demo Website</h3>
 
   <p align="center">
-    <a href="https://vercel.com/newpheeraphat/playtorium-interview-ecommerce">Frontend for User Interface</a>
+    <a href="https://playtorium-interview-ecommerce.vercel.app/">Frontend for User Interface</a>
     <a href="https://playtorium-interview-ecommerce.sanity.studio/structure">Backend for CRUD Operation</a>
   </p>
 </div>
