@@ -19,7 +19,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -85,25 +84,6 @@ Explore the Next.js documentation to learn more about features and APIs you can 
 <img width="1512" alt="Screenshot 2567-02-13 at 21 48 27" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/2a3dfe5c-7929-49f1-8570-b9c169865201">
 <img width="1512" alt="Screenshot 2567-02-13 at 21 48 49" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/1e614379-860f-47f0-baf8-2d1425707b53">
 <img width="1512" alt="Screenshot 2567-02-13 at 21 48 56" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/6be1807b-026e-440e-b5ba-4432540e5b73">
-
-
-
-
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
-   git clone [https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git)
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
