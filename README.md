@@ -119,14 +119,11 @@ Use this space to list resources you find helpful and would like to give credit 
 ## Deploy
 
 <div align="center">
-  <h3 align="center">View Demo</h3>
+  <h3 align="center">View Demo Website</h3>
 
   <p align="center">
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Website</a>
-    ·
+    <a href="https://vercel.com/newpheeraphat/playtorium-interview-ecommerce">Frontend for User Interface</a>
+    <a href="https://playtorium-interview-ecommerce.sanity.studio/structure">Backend for CRUD Operation</a>
   </p>
 </div>
 
