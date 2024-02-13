@@ -2,10 +2,6 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Playtorium Interview Takehome Assignment</h3>
 </div>
 
@@ -41,6 +37,13 @@
 <img width="1512" alt="Screenshot 2567-02-13 at 21 18 22" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/caad88b3-d758-4529-94af-4c65dff5c61d">
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Shadcn/Ui][shadcn.com]][Shadcn-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
