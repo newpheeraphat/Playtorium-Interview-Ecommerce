@@ -6,7 +6,6 @@
 </div>
 
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -48,9 +47,28 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
+This guide will help you get started with running your Next.js application locally on your machine. Make sure you have Node.js installed (version 10.13 or later).
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### 1. Clone the Repository
+First, clone the repository to your local machine using Git:
+  ```sh
+  git clone https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git
+  cd nextjs-commerce-project
+  ```
+### 2. Install Dependencies
+Navigate to the project directory and install the required dependencies:
+```sh
+  npm install 
+  ```
+### 3. Run the Development Server
+After installing the dependencies, you can start the development server by running:
+```sh
+  npm run dev
+  ```
+This command starts the Next.js application in development mode with hot-code reloading, error reporting, and more. The server will start listening on http://localhost:3000. Open this URL in your browser to view your application.
+
+### 4. Next Steps
+Explore the Next.js documentation to learn more about features and APIs you can use to enhance your application: https://nextjs.org/docs
 
 ### Prerequisites
 
@@ -71,7 +89,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git)
+   git clone [https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git)
    ```
 3. Install NPM packages
    ```sh
