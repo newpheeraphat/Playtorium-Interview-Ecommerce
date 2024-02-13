@@ -54,9 +54,55 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+
+* node
+  ```sh
+  brew install node
+  ```
+  
 * npm
   ```sh
   npm install npm@latest -g
   ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Clone the repo
+   ```sh
+   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce.git)
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@pheeraphat prisan]([https://twitter.com/your_username](https://www.linkedin.com/in/pheeraphat-prisan-195a09229/)) - pheerphat.pri@gmail.com
+
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce)]([https://github.com/your_username/repo_name](https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Lucide Icon](https://lucide.dev/)
+* [Vercel](https://vercel.com/)
+* [Sanity](https://www.sanity.io/)
+* [Shadcn](https://ui.shadcn.com/)
+* [Stripe]([https://react-icons.github.io/react-icons/search](https://stripe.com/en-th))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 
