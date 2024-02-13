@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Playtorium Interview Takehome Assignment</h3>
+  <h1 align="center">Playtorium Interview Takehome Assignment</h3>
 </div>
 
 
@@ -78,6 +78,17 @@ Explore the Next.js documentation to learn more about features and APIs you can 
   ```sh
   npm install npm@latest -g
   ```
+## Usage
+<img width="1512" alt="Screenshot 2567-02-13 at 21 47 11" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/1c0d1f67-3c80-460c-be90-9e8b9edab177">
+<img width="1512" alt="Screenshot 2567-02-13 at 21 47 25" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/ef8c477c-73c7-4145-9b55-9d61c823cf7b">
+<img width="1512" alt="Screenshot 2567-02-13 at 21 47 35" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/afb77d55-6fae-4d12-8e77-6d09f1cdaf46">
+<img width="1512" alt="Screenshot 2567-02-13 at 21 48 27" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/2a3dfe5c-7929-49f1-8570-b9c169865201">
+<img width="1512" alt="Screenshot 2567-02-13 at 21 48 49" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/1e614379-860f-47f0-baf8-2d1425707b53">
+<img width="1512" alt="Screenshot 2567-02-13 at 21 48 56" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/6be1807b-026e-440e-b5ba-4432540e5b73">
+
+
+
+
 
 ### Installation
 
