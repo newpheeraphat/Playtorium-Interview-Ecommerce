@@ -1,11 +1,15 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Playtorium Interview Takehome Assignment</h3>
+</div>
+
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,3 +35,12 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## About The Project
+
+<img width="1512" alt="Screenshot 2567-02-13 at 21 18 22" src="https://github.com/newpheeraphat/Playtorium-Interview-Ecommerce/assets/77052746/caad88b3-d758-4529-94af-4c65dff5c61d">
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
